@@ -51,3 +51,44 @@
 ![alt text](<screenshots/6/Screenshot 2024-04-28 042705.jpg>)
 ![alt text](<screenshots/6/Screenshot 2024-04-28 042803.jpg>)
 ![alt text](<screenshots/6/Screenshot 2024-04-28 042839.jpg>)
+
+
+
+
+# Advanced:
+## 1. Create 2 ec2 instances with web servers
+![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 024655.jpg>)
+![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 024755.jpg>)
+![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 024835.jpg>)
+![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 025053.jpg>)
+![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 025125.jpg>)
+![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 025317.jpg>)
+![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 025357.jpg>)
+![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 025519.jpg>)
+![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 025657.jpg>)
+![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 025854.jpg>)
+![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 040806.jpg>)
+![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 040841.jpg>)
+![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 040936.jpg>)
+
+## 2. Put them in target group
+![alt text](<screenshots/advanced-2/Screenshot 2024-04-29 040202.jpg>)
+![alt text](<screenshots/advanced-2/Screenshot 2024-04-29 040302.jpg>)
+![alt text](<screenshots/advanced-2/Screenshot 2024-04-29 040359.jpg>)
+![alt text](<screenshots/advanced-2/Screenshot 2024-04-29 040454.jpg>)
+![alt text](<screenshots/advanced-2/Screenshot 2024-04-29 040542.jpg>)
+![alt text](<screenshots/advanced-2/Screenshot 2024-04-29 040627.jpg>)
+![alt text](<screenshots/advanced-2/Screenshot 2024-04-29 040701.jpg>)
+
+## 3. Create ALB and connect to target group
+![alt text](<screenshots/advanced-3/Screenshot 2024-04-29 041104.jpg>)
+![alt text](<screenshots/advanced-3/Screenshot 2024-04-29 041157.jpg>)
+![alt text](<screenshots/advanced-3/Screenshot 2024-04-29 041316.jpg>)
+![alt text](<screenshots/advanced-3/Screenshot 2024-04-29 041355.jpg>)
+![alt text](<screenshots/advanced-3/Screenshot 2024-04-29 041447.jpg>)
+![alt text](<screenshots/advanced-3/Screenshot 2024-04-29 041517.jpg>)
+![alt text](<screenshots/advanced-3/Screenshot 2024-04-29 041922.jpg>)
+![alt text](<screenshots/advanced-3/Screenshot 2024-04-29 042003.jpg>)
+![alt text](<screenshots/advanced-3/Screenshot 2024-04-29 042114.jpg>)
+![alt text](<screenshots/advanced-3/Screenshot 2024-04-29 042208.jpg>)
+![alt text](<screenshots/advanced-3/Screenshot 2024-04-29 042355.jpg>)
