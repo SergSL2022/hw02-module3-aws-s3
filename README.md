@@ -67,7 +67,6 @@
 ![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 025519.jpg>)
 ![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 025657.jpg>)
 ![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 025854.jpg>)
-![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 040806.jpg>)
 ![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 040841.jpg>)
 ![alt text](<screenshots/advanced-1/Screenshot 2024-04-29 040936.jpg>)
 
